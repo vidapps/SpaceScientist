@@ -18,5 +18,5 @@ Admob may collects your approximate location, your app interactions, diagnostic 
 Again to mention, the app itself does not otherwise share any information with anyone.
 
 
-Yours sincerely,
+Yours sincerely<br>
 Ajit Sinha
